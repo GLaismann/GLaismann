@@ -18,7 +18,7 @@ Minha jornada começou na logística/almoxarifado, onde usei a tecnologia para o
 ### 💻 **No que estou trabalhando**
 
 * 📱 **App de Gestão de Ativos:** Um aplicativo em **Flutter** para substituir o controle de inventário via planilhas.
-* 🌐 **Infraestrutura Web:** Configuração de servidores, zonas de DNS (Locaweb) e implementação de segurança SSL/HTTPS.
+* 🌐 **Infraestrutura Web:** Configuração de servidores, zonas de DNS e implementação de segurança SSL/HTTPS.
 * ⚙️ **Automação:** Scripts para agilizar o processamento de notas fiscais e rotinas administrativas.
 
 ---
