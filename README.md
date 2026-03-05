@@ -1,15 +1,12 @@
 # Olá, eu sou o Gustavo! 👋
 
-Sou um **Analista de TI & Desenvolvedor Full Stack Jr.** apaixonado por transformar processos manuais em soluções digitais. 
-
-Minha jornada começou na logística/almoxarifado, onde usei a tecnologia para otimizar a gestão e acabei migrando oficialmente para a área de desenvolvimento.
+Sou um **Analista de TI & Desenvolvedor Full Stack Jr.**
 
 ---
 
-### 🚀 **Quem eu sou (Em 10 segundos)**
+### 🚀 **Quem eu sou**
 
 * 🔭 **Atualmente:** Trabalho na EPM (Empresa Paranaense de Montagens) desenvolvendo soluções internas.
-* 🌱 **Minha história:** De Almoxarife a Dev -> Resolvi problemas reais com código e fui promovido.
 * 🌍 **Experiência Internacional:** Intercâmbio de 4 meses na Austrália 🇦🇺 (English Speaker).
 * 🎯 **Foco:** Desenvolvimento Mobile (Flutter) e Backend (Java/Spring Boot).
 
