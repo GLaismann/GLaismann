@@ -8,7 +8,7 @@ Sou um **Analista de TI & Desenvolvedor Full Stack Jr.**
 
 * 🔭 **Atualmente:** Trabalho na EPM (Empresa Paranaense de Montagens) desenvolvendo soluções internas.
 * 🌍 **Experiência Internacional:** Intercâmbio de 4 meses na Austrália 🇦🇺 (English Speaker).
-* 🎯 **Foco:** Desenvolvimento Mobile (Flutter) e Backend (Java/Spring Boot).
+* 🎯 **Foco:** Desenvolvimento Mobile (Flutter) e Backend (Java/Spring Boot | Node.js/Express.js).
 
 ---
 
