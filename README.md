@@ -1,24 +1,13 @@
-# Olá, eu sou o Gustavo! 👋
+Olá, eu sou o Gustavo! 👋
 
-Sou um **Analista de TI & Desenvolvedor Full Stack Jr.**
+Sou **Analista de TI**,
 
 ---
-
-### 🚀 **Quem eu sou**
-
 * 🔭 **Atualmente:** Trabalho na EPM (Empresa Paranaense de Montagens) desenvolvendo soluções internas.
 * 🌍 **Experiência Internacional:** Intercâmbio de 4 meses na Austrália 🇦🇺 (English Speaker).
-* 🎯 **Foco:** Desenvolvimento Mobile (Flutter) e Backend (Java/Spring Boot | Node.js/Express.js).
 
 ---
 
-### 💻 **No que estou trabalhando**
-
-* 📱 **App de Gestão de Ativos:** Um aplicativo em **Flutter** para substituir o controle de inventário via planilhas.
-* 🌐 **Infraestrutura Web:** Configuração de servidores, zonas de DNS e implementação de segurança SSL/HTTPS.
-* ⚙️ **Automação:** Scripts para agilizar o processamento de notas fiscais e rotinas administrativas.
-
----
 
 ### 🛠 **Tech Stack & Ferramentas**
 
